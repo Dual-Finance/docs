@@ -9,13 +9,13 @@ description: Incentive Tools for for DAOs
 Reach out in [Discord](https://discord.com/channels/937797334048325673/1070906120622854154) for a full explanation tailored to your projects needs!\
 \
 Create Staking Options\
-![](<../.gitbook/assets/image (6) (1).png>)\
+![](<../.gitbook/assets/Staking Option realms 3.png>)\
 \
 Exercise\
-![](<../.gitbook/assets/image (1).png>)\
+![](<../.gitbook/assets/Exercise realms.png>)\
 \
 Withdraw\
-![](<../.gitbook/assets/image (11).png>)
+![](<../.gitbook/assets/Withdraw realms 2.png>)
 
 Airdrop\
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/Airdrop Realms 3.png>)

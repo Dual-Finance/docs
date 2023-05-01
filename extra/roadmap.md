@@ -18,7 +18,7 @@ description: Completed since February 2022
 * [x] Proof-of-Governance
 * [x] Liquidity Staking Options
 * [ ] Downside DIPs
-* [ ] BTC & ETH DIPs
+* [ ] mSOL, BTC & ETH DIPs
 * [ ] Rehypothetcated Lending Pools
 * [x] DUAL Staking Option Fair Launch
 * [x] Community Seed Airdrop
@@ -30,7 +30,7 @@ description: Completed since February 2022
 * [ ] Phase out Dual DAO Council
 * [ ] xNFT App
 * [ ] Saga Mobile App
-* [ ] Atomic Swap Tool
+* [x] Liquidate Staking Options
 * [ ] Staking Options Marketplace
 * [ ] Competitive Decentralized Liquidity Provider
 * [ ] Partnership Expansion

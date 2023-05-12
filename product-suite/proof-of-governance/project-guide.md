@@ -6,7 +6,7 @@ description: Steps to create Governance Staking Options
 
 * Mint Staking Options to the DAO
 * Configure a Governance verified airdrop\
-  ![](<../../.gitbook/assets/Airdrop Realms (1).png>)
+  ![](<../../.gitbook/assets/Airdrop Realms.png>)
 * Choose a time range in Unix time: [https://www.unixtimestamp.com/](https://www.unixtimestamp.com/)
 * Enter tokens per voter & Total tokens to be used for the airdrop
 * Preview & Confirm the transaction

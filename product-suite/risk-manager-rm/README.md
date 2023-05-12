@@ -14,7 +14,7 @@ Watch live trading on OpenBook for MNGO/USDC
 
 {% embed url="https://openserum.io/3NnxQvDcZXputNMxaxsGvqiKpqgPfSYXpNigZNFcknmD" %}
 
-<figure><img src="../../.gitbook/assets/MNGO RM 2 (5).png" alt=""><figcaption><p>MNGO Gamma Scalper</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/MNGO RM 2 (1) (3).png" alt=""><figcaption><p>MNGO Gamma Scalper</p></figcaption></figure>
 
 {% embed url="https://medium.com/@dualfinance/strategic-decentralized-risk-management-8f5b307de43d" %}
 In depth article

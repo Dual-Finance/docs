@@ -14,6 +14,7 @@ Staking Options are a new incentive mechanism that rewards users or crypto proto
 * Airdrop - Reward participation to distribute the token and replace seed fundraising
 * Proof-of-Governance - Realms token voting also rewards SOs
 * Contribution - Teams, contributors, and partners receive token options as compensation for work
+* Buyback - Utilize cash treasury via Downside SOs to naturally create a token floor price & increase token liquidity. Active partnership with Mango DAO
 
 <figure><img src="../../.gitbook/assets/GSO BONK.png" alt=""><figcaption><p>BONK Loyalty Staking Options</p></figcaption></figure>
 

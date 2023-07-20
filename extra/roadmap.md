@@ -17,21 +17,27 @@ description: Completed since February 2022
 * [ ] Automate Dual Airdrop
 * [x] Proof-of-Governance
 * [x] Liquidity Staking Options
-* [ ] Downside DIPs
+* [x] Downside DIPs
 * [ ] mSOL, BTC & ETH DIPs
 * [ ] Rehypothetcated Lending Pools
+* [ ] Reversible Staking Options
 * [x] DUAL Staking Option Fair Launch
 * [x] Community Seed Airdrop
 * [x] Mango Buyback & Partnership
 * [x] BONK Loyalty Staking Options
 * [x] Governance Staking Options
 * [x] Dual DAO Constituted
-* [ ] DUAL Token Voting Quorum
+* [x] Cross Realm DAO Voting
+* [x] DUAL Token Voting Quorum
 * [ ] Phase out Dual DAO Council
-* [ ] xNFT App
-* [ ] Saga Mobile App
+* [x] xNFT App
+* [x] Saga Mobile App
 * [x] Liquidate Staking Options
 * [ ] Staking Options Marketplace
 * [ ] Competitive Decentralized Liquidity Provider
 * [ ] Partnership Expansion
 * [ ] Multi-chain Expansion
+
+Phase Two Update - July 19th, 2023
+
+{% embed url="https://medium.com/@dualfinance/phase-two-roadmap-d64ec04014cb" %}

@@ -1,5 +1,5 @@
 ---
-description: Ratified by the council, pending community ratification
+description: Ratified by the council & community
 ---
 
 # Constitution

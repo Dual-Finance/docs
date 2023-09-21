@@ -14,4 +14,4 @@ Stake today and get paid immediately at [https://beta.dual.finance/](https://bet
 
 {% embed url="https://beta.dual.finance/" %}
 
-<figure><img src="../../.gitbook/assets/DIP" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>

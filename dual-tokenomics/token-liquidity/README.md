@@ -16,15 +16,27 @@ The USDC from exercise of any DUAL Staking Options goes to the Dual DAO treasury
 \
 Markets are **NOT** being seeded or sponsored by the team or the Dual DAO\
 \
-**Price Data:**
+**Data:**
 
 {% embed url="https://www.coingecko.com/en/coins/dual-finance" %}
 
 {% embed url="https://coinmarketcap.com/currencies/dual-finance/" %}
 
+{% embed url="https://defillama.com/protocol/dual-finance" %}
+Track Program TVL
+{% endembed %}
+
 **Exchanges:**\
 \
 Solana DEX's with a community listed token
+
+{% embed url="https://jup.ag/swap/USDC-DUAL" %}
+Swap DUAL
+{% endembed %}
+
+{% embed url="https://app.mango.markets/trade?name=DUAL/USDC" %}
+Trade DUAL on Mango Markets
+{% endembed %}
 
 {% embed url="https://openserum.io/H6rrYK3SUHF2eguZCyJxnSBMJqjXhUtuaki6PHiutvum" %}
 View Market
@@ -36,8 +48,4 @@ Add Concentrated Liquidity
 
 {% embed url="https://raydium.io/clmm/pools" %}
 Search DUAL
-{% endembed %}
-
-{% embed url="https://jup.ag/swap/USDC-DUAL" %}
-Swap DUAL
 {% endembed %}

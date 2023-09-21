@@ -15,3 +15,7 @@ Community Seed Airdrop participants can claim their DUAL Staking Options.
 {% embed url="https://csa.dual.finance/airdrop" %}
 Claim DUAL Staking Options
 {% endembed %}
+
+{% embed url="https://medium.com/@TheDaoDad/38-how-to-use-the-dual-finance-airdrop-feature-on-realms-620718a89888" %}
+Dean's List Guide to Airdrops
+{% endembed %}

@@ -18,9 +18,12 @@ description: Completed since February 2022
 * [x] Proof-of-Governance
 * [x] Liquidity Staking Options
 * [x] Downside DIPs
-* [ ] mSOL, BTC & ETH DIPs
+* [x] mSOL DIP
+* [x] jitoSOL DIP
+* [ ] tBTC DIPs
+* [ ] &#x20;ETH DIPs
 * [ ] Rehypothetcated Lending Pools
-* [ ] Reversible Staking Options
+* [x] Reversible Staking Options
 * [x] DUAL Staking Option Fair Launch
 * [x] Community Seed Airdrop
 * [x] Mango Buyback & Partnership
@@ -34,7 +37,7 @@ description: Completed since February 2022
 * [x] Saga Mobile App
 * [x] Liquidate Staking Options
 * [ ] Staking Options Marketplace
-* [ ] Competitive Decentralized Liquidity Provider
+* [x] Competitive External Liquidity Provider
 * [ ] Partnership Expansion
 * [ ] Multi-chain Expansion
 

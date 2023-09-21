@@ -5,10 +5,10 @@ description: Dual Investment Pools and Staking Options
 # Products
 
 **Which tokens can I stake into DIPs to start?**\
-SOL (Soon BTC, ETH, MNGO, MSOL and others)
+SOL, mSOL, jitoSOL (Soon tBTC, ETH, MNGO, and others)
 
 **Which wallets are supported?**\
-Currently we support Phantom, Glow, Solflare and Backpack wallets. Any wallet using solana-wallet-adapter can be easily integrated.
+Currently we support Phantom, Glow, Solflare and Backpack wallets. Any wallet using solana-wallet-adapter can be easily integrated. Metamask supported via Solfare snaps.
 
 **What is meant by the quoted APY on DIPs?**\
 APYs are a normalized way to examine risk and effective yield between different strikes, expirations and products.

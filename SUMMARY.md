@@ -11,6 +11,7 @@
 * [Staking Options (SO)](product-suite/staking-options-so/README.md)
   * [Partnership Program](product-suite/staking-options-so/partnership-program.md)
   * [Demo](product-suite/staking-options-so/demo.md)
+* [Liquidity Services](product-suite/liquidity-services.md)
 * [Risk Manager (RM)](product-suite/risk-manager-rm/README.md)
   * [Performance](product-suite/risk-manager-rm/performance.md)
   * [Demos](product-suite/risk-manager-rm/demos.md)

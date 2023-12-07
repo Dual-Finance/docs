@@ -9,9 +9,11 @@ Staking Options are a new and innovative incentive mechanism that reward users o
 \
 **Active Use Cases for Dual Finance:**
 
-* Liquidity - DIPs will reward stakers in SOs rather than standard liquidity mining rewards
-* Loyalty - Users lock tokens for fixed periods of time to receive the right to buy at a fixed price. Dual Finance is currently running this program for BONK
-* Airdrop - Reward participation by distributing token options to your community - a great alternative to seed fundraising
+* Market Making - Tokenize standard loan and call option deals
+* Liquidity Mining - Reward stakers in protocols with options rather than tokens
+* Loyalty - Users lock tokens for fixed periods of time to receive the right to buy at a fixed price.
+* Airdrop - Filter out airdrop farmers and sybil attackers by distributing token options to your community
+* Proof-of-Liquidity - Utilize options to create more sticky AMM LPs and reduce their impermanent loss
 * Proof-of-Governance - Reward active DAO members with token options via token voting in Realms
 * Contribution - Teams, contributors, and partners can be granted token options as compensation for work - helps drive engagement and incentivizes contributors
 

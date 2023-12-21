@@ -9,7 +9,7 @@ Staking Options are a new and innovative incentive mechanism that reward users o
 \
 **Active Use Cases for Dual Finance:**
 
-* Market Making - Tokenize standard loan and call option deals
+* Market Making - Tokenize standard loan and call option deals. See [Liquidity Services](https://dual-finance.gitbook.io/dual-finance-documentation/product-suite/liquidity-services)
 * Liquidity Mining - Reward stakers in protocols with options rather than tokens
 * Loyalty - Users lock tokens for fixed periods of time to receive the right to buy at a fixed price.
 * Airdrop - Filter out airdrop farmers and sybil attackers by distributing token options to your community

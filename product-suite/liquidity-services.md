@@ -16,6 +16,6 @@ Partner with liquidity providers that are supportive of an on-chain world:\
 [CKS Systems](https://cks.systems/) & [GSR](https://www.gsr.io/)
 
 Join a growing ecosystem of like minded token projects utilizing this innovative structure:\
-[MNGO](https://mango.markets/), [TBTC](https://threshold.network/), [RENDER](https://rendernetwork.com/), [BONK](https://bonkcoin.com/), [CHAI](https://chai.money/), [ALL](https://alldomains.id/), [SLCL](https://solcial.io/), [GUAC](https://www.guacamole.gg/)
+[MNGO](https://mango.markets/), [TBTC](https://threshold.network/), [RENDER](https://rendernetwork.com/), [BONK](https://bonkcoin.com/), [CHAI](https://chai.money/), [ALL](https://alldomains.id/), [GUAC](https://www.guacamole.gg/), [NOS](https://nosana.io/)
 
 Execute your token market making deal today with input from your community through on-chain governance on [Realms](https://app.realms.today/realms).\

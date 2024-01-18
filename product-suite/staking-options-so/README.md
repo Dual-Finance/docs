@@ -9,12 +9,12 @@ Staking Options are a new and innovative incentive mechanism that reward users o
 \
 **Active Use Cases for Dual Finance:**
 
-* Market Making - Tokenize standard loan and call option deals. See [Liquidity Services](https://dual-finance.gitbook.io/dual-finance-documentation/product-suite/liquidity-services)
-* Liquidity Mining - Reward stakers in protocols with options rather than tokens
-* Loyalty - Users lock tokens for fixed periods of time to receive the right to buy at a fixed price.
-* Airdrop - Filter out airdrop farmers and sybil attackers by distributing token options to your community
+* [Market Making/Liquidity Service](../liquidity-service.md) - Tokenize standard loan and call option deals
+* [Liquidity Mining](../dual-investment-pools-dip/liquidity-staking-options-lso.md) - Reward stakers in protocols with options rather than tokens
+* [Loyalty/Lockup](https://app.gitbook.com/o/X0uNY1vwrauQ0VPoBTvr/s/bsQwTZST7WBDVtaZcTWp/\~/changes/34/product-suite/staking-options-so/lockup-staking-options) - Lock tokens for fixed periods of time to receive the right to buy at a fixed price.
+* [Airdrop](../../integrations/realms/dual-airdrop/) - Filter out airdrop farmers and sybil attackers by distributing token options to your community
 * Proof-of-Liquidity - Utilize options to create more sticky AMM LPs and reduce their impermanent loss
-* Proof-of-Governance - Reward active DAO members with token options via token voting in Realms
+* [Proof-of-Governance](../../integrations/realms/proof-of-governance/) - Reward active DAO members with token options via token voting in Realms
 * Contribution - Teams, contributors, and partners can be granted token options as compensation for work - helps drive engagement and incentivizes contributors
 
 <figure><img src="../../.gitbook/assets/BONK GSO" alt=""><figcaption><p>BONK Loyalty Staking Options</p></figcaption></figure>

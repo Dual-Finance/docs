@@ -4,22 +4,15 @@
 
 ## Product Suite
 
+* [Staking Options (SO)](product-suite/staking-options-so/README.md)
+  * [Lockup Staking Options](product-suite/staking-options-so/lockup-staking-options.md)
+  * [Partnership Program](product-suite/staking-options-so/partnership-program.md)
+  * [Demo](product-suite/staking-options-so/demo.md)
+* [Liquidity Service](product-suite/liquidity-service.md)
 * [Dual Investment Pools (DIP)](product-suite/dual-investment-pools-dip/README.md)
   * [Guides](product-suite/dual-investment-pools-dip/demos.md)
   * [Liquidity Staking Options](product-suite/dual-investment-pools-dip/liquidity-staking-options-lso.md)
   * [Contract Specifications](product-suite/dual-investment-pools-dip/contract-specifications.md)
-* [Staking Options (SO)](product-suite/staking-options-so/README.md)
-  * [Partnership Program](product-suite/staking-options-so/partnership-program.md)
-  * [Demo](product-suite/staking-options-so/demo.md)
-* [Liquidity Services](product-suite/liquidity-services.md)
-* [Risk Manager (RM)](product-suite/risk-manager-rm/README.md)
-  * [Performance](product-suite/risk-manager-rm/performance.md)
-  * [Demos](product-suite/risk-manager-rm/demos.md)
-* [Dual Airdrop](product-suite/dual-airdrop/README.md)
-  * [Design Specs](product-suite/dual-airdrop/design-specs.md)
-* [Proof-of-Governance](product-suite/proof-of-governance/README.md)
-  * [User Demo](product-suite/proof-of-governance/user-demo.md)
-  * [Project Guide](product-suite/proof-of-governance/project-guide.md)
 
 ## DUAL Tokenomics
 
@@ -34,9 +27,22 @@
 
 ## Integrations
 
+* [Realms](integrations/realms/README.md)
+  * [Dual Airdrop](integrations/realms/dual-airdrop/README.md)
+    * [Design Specs](integrations/realms/dual-airdrop/design-specs.md)
+  * [Proof-of-Governance](integrations/realms/proof-of-governance/README.md)
+    * [User Demo](integrations/realms/proof-of-governance/user-demo.md)
+    * [Project Guide](integrations/realms/proof-of-governance/project-guide.md)
 * [Studio](integrations/studio.md)
-* [Realms](integrations/realms.md)
 * [SDK](integrations/sdk.md)
+
+## FAQ
+
+* [General](faq/general.md)
+* [Products](faq/products.md)
+* [Risks](faq/risks.md)
+* [Token](faq/token.md)
+* [Partnerships](faq/partnerships.md)
 
 ## Extra
 
@@ -47,14 +53,9 @@
 * [Whitepaper](extra/whitepaper.md)
 * [Roadmap](extra/roadmap.md)
 * [Program Addresses](extra/program-addresses.md)
-
-## FAQ
-
-* [General](faq/general.md)
-* [Products](faq/products.md)
-* [Risks](faq/risks.md)
-* [Token](faq/token.md)
-* [Partnerships](faq/partnerships.md)
+* [Risk Manager (RM)](extra/risk-manager-rm/README.md)
+  * [Performance](extra/risk-manager-rm/performance.md)
+  * [Demos](extra/risk-manager-rm/demos.md)
 
 ## Links
 

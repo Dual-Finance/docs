@@ -6,7 +6,7 @@ description: >-
 
 # Proof-of-Governance
 
-<figure><img src="../../.gitbook/assets/PoG Diagram" alt=""><figcaption><p>Composable Incentives</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/PoG Diagram" alt=""><figcaption><p>Composable Incentives</p></figcaption></figure>
 
 \
 \

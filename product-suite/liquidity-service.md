@@ -10,7 +10,11 @@ Tokenize standard loan & call market making deal structures by creating the same
 \
 Keeps your token's liquidity on-chain and avoid the pitfalls of dealing with centralized exchange listing fees, counterparty risk and legal overhead. Your business is on-chain why direct your users off of Solana when there are cheaper, fairer, permission-less offerings through DEXs. \
 \
-Focus liquidity to the most capitally efficient markets with native integrations to [Openbook](https://github.com/openbook-dex), [Phoenix](https://www.phoenix.trade/), [Mango Markets](https://app.mango.markets/) & [Jupiter](https://jup.ag/swap/USDC-DUAL).
+Focus liquidity to the most capitally efficient markets with native integrations to [Openbook](https://github.com/openbook-dex) V2, [Phoenix](https://www.phoenix.trade/), [Mango Markets](https://app.mango.markets/) & [Jupiter](https://jup.ag/swap/USDC-DUAL).
+
+{% embed url="https://beta.dual.finance/loan" %}
+Configure Token Loans for Market Making
+{% endembed %}
 
 Partner with liquidity providers that are supportive of an on-chain world:\
 [CKS Systems](https://cks.systems/) & [GSR](https://www.gsr.io/)

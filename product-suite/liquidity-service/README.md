@@ -12,6 +12,8 @@ Keeps your token's liquidity on-chain and avoid the pitfalls of dealing with cen
 \
 Focus liquidity to the most capitally efficient markets with native integrations to [Openbook](https://github.com/openbook-dex) V2, [Phoenix](https://www.phoenix.trade/), [Mango Markets](https://app.mango.markets/) & [Jupiter](https://jup.ag/swap/USDC-DUAL).
 
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Customized Market Making Loans</p></figcaption></figure>
+
 {% embed url="https://beta.dual.finance/loan" %}
 Configure Token Loans for Market Making
 {% endembed %}
@@ -20,6 +22,6 @@ Partner with liquidity providers that are supportive of an on-chain world:\
 [CKS Systems](https://cks.systems/) & [GSR](https://www.gsr.io/)
 
 Join a growing ecosystem of like minded token projects utilizing this innovative structure:\
-[MNGO](https://mango.markets/), [TBTC](https://threshold.network/), [RENDER](https://rendernetwork.com/), [BONK](https://bonkcoin.com/), [CHAI](https://chai.money/), [ALL](https://alldomains.id/), [GUAC](https://www.guacamole.gg/), [NOS](https://nosana.io/), [GECKO](https://geckocoin.xyz/)
+[MNGO](https://mango.markets/), [TBTC](https://threshold.network/), [RENDER](https://rendernetwork.com/), [BONK](https://bonkcoin.com/), [CHAI](https://chai.money/), [ALL](https://alldomains.id/), [NOS](https://nosana.io/), [GECKO](https://geckocoin.xyz/), [SCOIN](https://sdrive.app/), [MPLX](https://www.metaplex.com/)
 
 Execute your token market making deal today with input from your community through on-chain governance on [Realms](https://app.realms.today/realms).\

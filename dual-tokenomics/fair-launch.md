@@ -24,7 +24,7 @@ Following the CSA Airdrop, DUAL can be earned by users primary through the liqui
 
 Lockup Staking Options are offered to reward long term holders and allow users to earn more DUAL Staking Options
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 DUAL Staking Option Tracker can be found on the SO tab of the [Status Page](https://status.dual.finance/).
 

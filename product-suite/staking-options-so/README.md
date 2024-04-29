@@ -9,7 +9,7 @@ Staking Options are a new and innovative incentive mechanism that reward users o
 \
 **Active Use Cases for Dual Finance:**
 
-* [Market Making/Liquidity Service](../liquidity-service.md) - Tokenize standard loan and call option deals
+* [Market Making/Liquidity Service](../liquidity-service/) - Tokenize standard loan and call option deals
 * [Liquidity Mining](../dual-investment-pools-dip/liquidity-staking-options-lso.md) - Reward stakers in protocols with options rather than tokens
 * [Loyalty/Lockup](https://app.gitbook.com/o/X0uNY1vwrauQ0VPoBTvr/s/bsQwTZST7WBDVtaZcTWp/\~/changes/34/product-suite/staking-options-so/lockup-staking-options) - Lock tokens for fixed periods of time to receive the right to buy at a fixed price.
 * [Airdrop](../../integrations/realms/dual-airdrop/) - Filter out airdrop farmers and sybil attackers by distributing token options to your community

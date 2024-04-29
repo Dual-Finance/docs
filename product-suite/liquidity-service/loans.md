@@ -22,6 +22,6 @@ Projects only need to select one of the three packages and enter their token min
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-Loans remain fully collateralized at all times so there is no exposure to the market maker, [CKS Systems](https://cks.systems/).  Loans are returnable in the initial tokens provided or in USDC at the repayment price provided. Only if, the loan is returned in USDC is there a 0.0025% fee applied. Otherwise, the market making service is provided and all tokens are locked until the end of the period.
+Loans remain fully collateralized at all times so there is no exposure to the market maker, [CKS Systems](https://cks.systems/).  Loans are returnable in the initial tokens provided or in USDC at the repayment price provided. Only if, the loan is returned in USDC is there a 0.0025% fee applied. Otherwise, the market making service is provided without a fee and all tokens are locked until the end of the period.
 
-Market making is provided for the chosen token on [Openbook V2](https://www.openbook.ag/ecosystem), an onchain orderbook and improved version of Serum. Statistics and performance can be monitored on-chain, including how much of the loan is being utilized.
+Market making is provided for the chosen token on [Openbook V2](https://www.openbook.ag/ecosystem), an on-chain orderbook and improved version of Serum. Statistics and performance can be monitored on-chain, including how much of the loan is being utilized.

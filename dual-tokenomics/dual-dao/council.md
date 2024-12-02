@@ -10,7 +10,7 @@ Program Upgrade Authorities are owned by the Dual DAO Council made up of 5 devel
 \
 `John Kramer - Dual Finance Co-Founder UTC-4`\
 `Britt Cyr - Dual Finance Co-Founder UTC-5`\
-`Diego Figueroa - UI/UX Developer UTC-4`\
+`Ryan Pajor - Community Support UTC-5`\
 `Maximilian Schneider - Mango Markets Co-Founder UTC+1`\
 `Mourad Mesour - GSR Lead Blockchain Developer UTC+7`\
 \

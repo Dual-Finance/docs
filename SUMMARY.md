@@ -55,13 +55,12 @@
 * [Roadmap](extra/roadmap.md)
 * [Program Addresses](extra/program-addresses.md)
 * [Risk Manager (RM)](extra/risk-manager-rm/README.md)
-  * [Performance](extra/risk-manager-rm/performance.md)
   * [Demos](extra/risk-manager-rm/demos.md)
 
 ## Links
 
 * [Home Page](https://www.dual.finance/)
-* [Application](https://beta.dual.finance/)
+* [Application](https://app.dual.finance/)
 * [Medium](https://medium.com/@dualfinance)
 * [Twitter](https://twitter.com/DualFinance)
 * [Discord](https://discord.gg/P3uH9AvEp5)

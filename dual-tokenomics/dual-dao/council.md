@@ -6,7 +6,7 @@ description: Temporary Security for Program Authority & Treasury Management
 
 The Dual DAO operates under a Council structure while the initial distribution of tokens via Staking Options occurs.\
 \
-Program Upgrade Authorities are owned by the Dual DAO Council made up of 5 developers and is capable of increasing in size prior to token only governance.\
+Program Upgrade Authorities are owned by the Dual DAO Council made up of 5 contributors and is capable of increasing in size prior to token only governance.\
 \
 `John Kramer - Dual Finance Co-Founder UTC-4`\
 `Britt Cyr - Dual Finance Co-Founder UTC-5`\

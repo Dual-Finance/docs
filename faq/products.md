@@ -5,7 +5,7 @@ description: Dual Investment Pools and Staking Options
 # Products
 
 **Which tokens can I stake into DIPs to start?**\
-SOL, mSOL, jitoSOL (Soon tBTC, ETH, MNGO, and others)
+SOL, mSOL, jitoSOL (DIPs are temporarily paused until there is new demand)
 
 **Which wallets are supported?**\
 Currently we support Phantom, Glow, Solflare and Backpack wallets. Any wallet using solana-wallet-adapter can be easily integrated. Metamask supported via Solfare snaps.

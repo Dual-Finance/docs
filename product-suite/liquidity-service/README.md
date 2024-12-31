@@ -10,9 +10,10 @@ Tokenize standard loan & call market making deal structures by creating the same
 \
 Keeps your token's liquidity on-chain and avoid the pitfalls of dealing with centralized exchange listing fees, counterparty risk and legal overhead. Your business is on-chain why direct your users off of Solana when there are cheaper, fairer, permission-less offerings through DEXs. \
 \
-Focus liquidity to the most capitally efficient markets with native integrations to [Openbook](https://www.openbook.ag/) & [Manifest](https://www.manifest.trade/).
+Focus liquidity to the most capitally efficient markets with native integrations to [Openbook](https://www.openbook.ag/) & [Manifest](https://www.manifest.trade/).\
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Customized Market Making Loans</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Customized Market Making Loans</p></figcaption></figure>
 
 {% embed url="https://beta.dual.finance/loan" %}
 Configure Token Loans for Market Making

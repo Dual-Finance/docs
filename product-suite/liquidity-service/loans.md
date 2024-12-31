@@ -20,7 +20,7 @@ Choose between three different pre-configured loans
 
 Projects only need to select one of the three packages and enter their token mint.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Loans remain fully collateralized at all times so there is no exposure to the market maker, [CKS Systems](https://cks.systems/).  Loans are returnable in the initial tokens provided or in USDC at the repayment price provided. Only if, the loan is returned in USDC is there a 0.0025% fee applied. Otherwise, the market making service is provided without a fee and all tokens are locked until the end of the period.
 
